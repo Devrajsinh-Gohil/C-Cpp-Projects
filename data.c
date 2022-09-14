@@ -2,7 +2,8 @@
 
             #GRC Memeber Management System.
             #By: Devrajsinh Gohil
-
+            #PI task
+            
 ----------------------------------------------------*/
 
 // header files reqired
@@ -324,6 +325,7 @@ void check_num(int x)
       }
 }
 
+// function to validate length of GRC id
 void check_id(char s[])
 {
     if(strlen(s) != 10)
