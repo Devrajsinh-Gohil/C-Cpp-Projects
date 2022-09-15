@@ -1,0 +1,5 @@
+Name: Dev Gohil
+Policy Number: 12345
+House worth (INR): 1000000
+Damage: Accidental
+Insured amount:700000
