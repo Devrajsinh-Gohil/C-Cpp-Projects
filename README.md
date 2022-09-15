@@ -1,3 +1,3 @@
 # C-Cpp-Projects
 
-<b>data.c</b> is the given to me as a task in the GRC PI.
+Here are some projects I made to learn File Handling in <b>C</b> and <b>C++</b>
